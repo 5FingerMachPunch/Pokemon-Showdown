@@ -4,6 +4,16 @@
 // The rules that formats use are stored in data/rulesets.js
 
 exports.Formats = [
+	
+	// RBY 802
+	////////////////////////////////////////////////////////////////////
+	{
+		section: "RBY 802 (beta)",
+	},
+	{
+		name: "RBY 802 Ubers (beta)",
+		mod: 'gen1',
+		ruleset: [
 
 	// SM Singles
 	///////////////////////////////////////////////////////////////////

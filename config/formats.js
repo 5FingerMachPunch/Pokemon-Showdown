@@ -13,7 +13,14 @@ exports.Formats = [
 	{
 		name: "RBY 802 Ubers (beta)",
 		mod: 'gen1',
-		ruleset: [
+		ruleset: ['Standard'],
+	},
+	{
+		name: "RBY 802 OU (beta)",
+		mod: 'gen1',
+		ruleset: ['Standard'],
+		banlist:['Uber'],
+	},
 
 	// SM Singles
 	///////////////////////////////////////////////////////////////////
